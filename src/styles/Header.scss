@@ -1,0 +1,36 @@
+body {
+    background-image:url(../assets/background-by-adult-swim.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    backdrop-filter: brightness(50%);
+    height: auto;
+};
+
+
+.logo {
+    text-align: center;
+};
+  
+.logo p {
+   text-align: center; 
+   color: white;
+};
+
+.logo_rick {
+    height: 130px;
+}
+
+.logo_react {
+    height: 50px;
+}
+
+.logos {
+    text-align: center; 
+}
+
+.logos img {
+    display: inline-block;
+    height: 50px;
+}
+

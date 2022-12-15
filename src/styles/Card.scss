@@ -1,0 +1,40 @@
+.card_perso {
+    text-align: center;
+    background-color: white;
+    width: 200px;
+
+    p {
+        margin-left: 2%;
+    }
+}
+
+.card-name {
+    color: black;
+}
+.card-loc {
+    color: black;
+}
+
+.card_perso img {
+   height: 200px;
+   width: 200px;
+}
+
+.card_perso p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+button {
+    background-color: rgb(41, 41, 41);
+    color: white;
+    margin-bottom: 5%;
+    border: none;
+    padding: 5%;
+}
+
+.bouton {
+    text-align: end;
+    justify-content: end;  
+}
