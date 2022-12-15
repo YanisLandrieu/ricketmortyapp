@@ -23,6 +23,7 @@ body {
 
 .logo_react {
     height: 50px;
+    margin: 5px;
 }
 
 .logos {
@@ -34,3 +35,11 @@ body {
     height: 50px;
 }
 
+
+@media (max-width: 465px) {
+
+    .logo_rick {
+        height: 100px;
+    }
+ 
+  }

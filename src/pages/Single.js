@@ -5,6 +5,7 @@ import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Episodes from '../components/Episodes';
+import Footer from '../components/Footer'
 
 
 
@@ -62,8 +63,7 @@ const Single = () => {
               </div> 
             </div>
           </div>
-          
-            
+          <Footer />
     </div>
   )
 }
